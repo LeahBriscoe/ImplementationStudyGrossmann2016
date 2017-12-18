@@ -1,5 +1,5 @@
 # ImplementationStudyGrossmann2016
-Replicating computation of modules of molecular pathways and imaging features from lung CT radiomics data published in a 2016 eLife publication by Grossmann et al. "Defining the biological basis of radiomic phenotypes in lung cancer" (1). Assessing stability of the Iterative Signature Algorithm for producing modules. 
+Replicating computation of modules of molecular pathways and radiomic (imaging) features from lung CT radiomics data published in a 2016 eLife publication by Grossmann et al. "Defining the biological basis of radiomic phenotypes in lung cancer" (1). Assessing stability of the Iterative Signature Algorithm for producing modules. 
 
 # Description of Folders
 ## Replicating Paper Steps
