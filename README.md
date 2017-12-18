@@ -13,6 +13,8 @@ Header file in each script describes it's purpose
 ## ExampleModuleTxtFiles
 Example of what is output by ReplicatingPaperSteps>Hoffman_GrossmannLB_PipelineD.R. The txt files contain lists of imaging features and pathways in one module.
 
+## Unofficial Data
+The xlsx files contain the Imaging, Expression and Clinical data provided by the publication. I have created my own csv files for each of the Imaging, Expression and Clinical data. Other files are my own Normalized Enrichment Score (NES) matrices. Some files were too large to upload to GitHub. Please check https://drive.google.com/open?id=1RS-jIIub4yjYYWgJ4J9AGU5jouRyps7Y for the full set.
 
 # Description of Miscellaneous Files
 ## GrossmannsModules.csv
