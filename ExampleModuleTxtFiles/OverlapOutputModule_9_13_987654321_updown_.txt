@@ -1,0 +1,18 @@
+Max Pathway Similarity 13 at 33.3333333333%
+Max Imaging Feature Similarity 5 at 5.71428571429%
+No. Pathways in common and Orig Module Size(3, 27)
+No.  Imaging Features in common and Orig module size(8, 58)
+Pathways in common
+SHC1 EVENTS IN ERBB4 SIGNALING
+FORMATION OF TRANSCRIPTION COUPLED NER TC NER REPAIR COMPLEX
+FORMATION OF RNA POL II ELONGATION COMPLEX 
+ 
+Imaging Features in common
+RLGL_longRunLowGrayLevEmpha
+Wavelet_HLH_stats_range
+Wavelet_HHL_glcm_infoCorr1
+Wavelet_HLL_glcm_correl1
+Wavelet_HLL_stats_max
+Wavelet_HHH_stats_range
+Wavelet_LLL_rlgl_longRunLowGrayLevEmpha
+Wavelet_HHH_stats_max

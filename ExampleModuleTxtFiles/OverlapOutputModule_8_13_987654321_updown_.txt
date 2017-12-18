@@ -1,0 +1,15 @@
+Max Pathway Similarity 9 at 14.2857142857%
+Max Imaging Feature Similarity 2 at 4.8951048951%
+No. Pathways in common and Orig Module Size(1, 31)
+No.  Imaging Features in common and Orig module size(7, 58)
+Pathways in common
+ADHERENS JUNCTIONS INTERACTIONS
+ 
+Imaging Features in common
+GLCM_correl1
+Wavelet_LLL_glcm_correl1
+Wavelet_LLH_rlgl_shortRunHighGrayLevEmpha
+GLCM_clusProm
+GLSZM_smallAreaEmphasis
+Wavelet_HLL_glcm_correl1
+Wavelet_LLL_glcm_clusProm

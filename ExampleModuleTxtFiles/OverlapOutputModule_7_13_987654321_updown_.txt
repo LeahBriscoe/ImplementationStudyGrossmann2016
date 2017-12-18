@@ -1,0 +1,26 @@
+Max Pathway Similarity 10 at 12.5%
+Max Imaging Feature Similarity 4 at 44.7368421053%
+No. Pathways in common and Orig Module Size(2, 84)
+No.  Imaging Features in common and Orig module size(17, 25)
+Pathways in common
+DOWNREGULATION OF SMAD2 3 SMAD4 TRANSCRIPTIONAL ACTIVITY
+AMINO ACID AND OLIGOPEPTIDE SLC TRANSPORTERS
+ 
+Imaging Features in common
+Wavelet_HHH_stats_var
+Wavelet_HHH_stats_rms
+Wavelet_HHL_stats_var
+Wavelet_HHL_stats_rms
+Wavelet_HHL_stats_std
+Wavelet_HHL_stats_md
+Wavelet_HLL_stats_rms
+Wavelet_HLL_stats_std
+Wavelet_HHH_stats_md
+Wavelet_HLH_stats_rms
+Wavelet_HLL_stats_var
+Wavelet_HHH_stats_std
+Wavelet_HLH_stats_mean
+Wavelet_HLH_stats_std
+Wavelet_HLH_stats_md
+Wavelet_HLH_stats_var
+Wavelet_HLL_stats_md

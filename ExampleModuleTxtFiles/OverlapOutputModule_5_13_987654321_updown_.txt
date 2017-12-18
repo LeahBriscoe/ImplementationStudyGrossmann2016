@@ -1,0 +1,43 @@
+Max Pathway Similarity 2 at 41.6666666667%
+Max Imaging Feature Similarity 6 at 67.3913043478%
+No. Pathways in common and Orig Module Size(5, 6)
+No.  Imaging Features in common and Orig module size(31, 64)
+Pathways in common
+CROSS PRESENTATION OF SOLUBLE EXOGENOUS ANTIGENS ENDOSOMES
+AUTODEGRADATION OF THE E3 UBIQUITIN LIGASE COP1
+ER PHAGOSOME PATHWAY
+REGULATION OF ORNITHINE DECARBOXYLASE ODC
+ANTIGEN PROCESSING CROSS PRESENTATION
+ 
+Imaging Features in common
+Wavelet_LLH_glcm_infoCorr2
+LoG_sigma_2_5_mm_2D_stats_std
+LoG_sigma_4_5_mm_2D_stats_std
+LoG_sigma_2_5_mm_3D_stats_std
+LoG_sigma_1_5_mm_3D_stats_std
+LoG_sigma_5_mm_2D_stats_std
+Stats_mean
+LoG_sigma_1_mm_2D_stats_std
+LoG_sigma_3_5_mm_2D_stats_std
+Wavelet_HLL_rlgl_longRunLowGrayLevEmpha
+LoG_sigma_4_5_mm_3D_stats_std
+LoG_sigma_5_mm_3D_stats_std
+LoG_sigma_4_mm_2D_stats_std
+LoG_sigma_3_mm_3D_stats_std
+Wavelet_HLH_glcm_clusShade
+LoG_sigma_2_mm_3D_stats_std
+LoG_sigma_0_5_mm_2D_stats_std
+Stats_min
+Wavelet_HHL_stats_mean
+Wavelet_LLL_stats_min
+LoG_sigma_1_mm_3D_stats_std
+LoG_sigma_0_5_mm_3D_stats_std
+Wavelet_LHH_glcm_correl1
+LoG_sigma_3_mm_2D_stats_std
+Wavelet_LLH_rlgl_longRunLowGrayLevEmpha
+LoG_sigma_3_5_mm_3D_stats_std
+Wavelet_HHH_stats_skewness
+Wavelet_HLH_rlgl_longRunLowGrayLevEmpha
+LoG_sigma_4_mm_3D_stats_std
+LoG_sigma_2_mm_2D_stats_std
+LoG_sigma_1_5_mm_2D_stats_std
